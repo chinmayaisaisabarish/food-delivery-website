@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "1234"
+    },
+    {
+      "id": "2",
+      "name": "Jane Doe",
+      "email": "jane@example.com",
+      "password": "1234"
+    },
+    {
+      "id": "9fe1",
+      "name": "nikhil",
+      "email": "nikhil@nikhil",
+      "password": "nikhil"
+    },
+    {
+      "id": "f386",
+      "name": "sohan",
+      "email": "sohankumar@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "c2b3",
+      "name": "qwer",
+      "email": "qwer@qwer",
+      "password": "qwer"
+    },
+    {
+      "id": "6302",
+      "name": "sohan",
+      "email": "sohankumarchundru@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "e0c9",
+      "name": "sohan",
+      "email": "kumar@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "8172",
+      "name": "sohan",
+      "email": "sohankumar1@gmail.com",
+      "password": "584123"
+    }
+  ]
+}
